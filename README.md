@@ -8,24 +8,21 @@
 <meta content='blogger' name='generator'/>
 <link href='https://markentigdig.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
 <link href='https://markentigdig.blogspot.com/' rel='canonical'/>
-<link rel="alternate" type="application/atom+xml" title="Marketing - Atom" href="# " />
-<link rel="alternate" type="application/rss+xml" title="Marketing - RSS" href="#" />
-<link rel="service.post" type="application/atom+xml" title="Marketing - Atom" href="https://www.blogger.com/feeds/7744898142268990660/posts/default" />
+<link rel="alternate" type="application/atom+xml" title="Decorações - Atom" href="# " />
+<link rel="alternate" type="application/rss+xml" title="Decorações- RSS" href="#" />
+<link rel="service.post" type="application/atom+xml" title=" Decorações- Atom" href="https://www.blogger.com/feeds/7744898142268990660/posts/default" />
 <!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/864213505-ieretrofit.js"></script>
 <![endif]-->
-<meta content='Brand,marketing,publicidade,trabalho digital,renda,MasterTrader,sites confiáveis,compras pela internet,,Webdesign,rentabilizar,monetizar,' name='description'/>
-<meta content='https://markentigdig.blogspot.com/' property='og:url'/>
-<meta content='Marketing' property='og:title'/>
-<meta content='Brand,marketing,publicidade,trabalho digital,renda,MasterTrader,sites confiáveis,compras pela internet,,Webdesign,rentabilizar,monetizar,' property='og:description'/>
+
 <!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
-<title>Marketing</title>
+<title>  Decorações   </title>
 <style id='page-skin-1' type='text/css'><!--
 /*
 -----------------------------------------------
 Blogger Template Style
 Name:     Watermark
 Designer: Blogger
-URL:      www.blogger.com
+URL:      
 ----------------------------------------------- */
 
 /* Use this with templates/1ktemplate-*.html */
