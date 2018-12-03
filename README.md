@@ -1,21 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+
 <!DOCTYPE html>
 <html b:version='2' class='v2' expr:dir='data:blog.languageDirection' expr:lang='data:blog.locale' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
   <head>
-    <meta expr:content='data:blog.isMobile         ? &quot;width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0&quot;         : &quot;width=1100&quot;' name='viewport'/>
-    <b:include data='blog' name='all-head-content'/>
-    <title><data:blog.pageTitle/></title>
-
-    <b:skin><![CDATA[/*
------------------------------------------------
-Blogger Template Style
-Name:     Watermark
-Designer: Blogger
-URL:      www.blogger.com
------------------------------------------------ */
-
-/* Variable definitions
-   ====================
+    
 
    <Variable name="keycolor" description="Main Color" type="color" default="#c0a154" value="#ee1133"/>
 
@@ -380,12 +367,7 @@ h3.post-title {
   margin: .2em 0 0;
 }
 
-/* Comments
------------------------------------------------ */
-.comments .comments-content .icon.blog-author {
-  background-repeat: no-repeat;
-  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
-}
+
 
 .comments .comments-content .loadmore a {
   border-top: 1px solid $(widget.alternate.text.color);
