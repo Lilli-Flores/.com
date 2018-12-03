@@ -1,16 +1,16 @@
 
-     <!DOCTYPE html>
+     < Ola! >
 <html class='v2' dir='ltr' lang='pt-BR'>
 <head>
 <link href='https://www.blogger.com/static/v1/widgets/2727757643-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
 <meta content='width=1100' name='viewport'/>
 <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
 <meta content='blogger' name='generator'/>
-<link href='https://markentigdig.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
-<link href='https://markentigdig.blogspot.com/' rel='canonical'/>
+<link href='#' rel='icon' type='image/x-icon'/>
+<link href='#/>
 <link rel="alternate" type="application/atom+xml" title="Decorações - Atom" href="# " />
 <link rel="alternate" type="application/rss+xml" title="Decorações- RSS" href="#" />
-<link rel="service.post" type="application/atom+xml" title=" Decorações- Atom" href="https://www.blogger.com/feeds/7744898142268990660/posts/default" />
+<link rel="service.post" type="application/atom+xml" title=" Decorações- Atom" href="#" />
 <!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/864213505-ieretrofit.js"></script>
 <![endif]-->
 
