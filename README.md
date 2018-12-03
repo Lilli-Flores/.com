@@ -8,8 +8,8 @@
 <meta content='blogger' name='generator'/>
 <link href='https://markentigdig.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
 <link href='https://markentigdig.blogspot.com/' rel='canonical'/>
-<link rel="alternate" type="application/atom+xml" title="Marketing - Atom" href="https://markentigdig.blogspot.com/feeds/posts/default" />
-<link rel="alternate" type="application/rss+xml" title="Marketing - RSS" href="https://markentigdig.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="alternate" type="application/atom+xml" title="Marketing - Atom" href="# " />
+<link rel="alternate" type="application/rss+xml" title="Marketing - RSS" href="#" />
 <link rel="service.post" type="application/atom+xml" title="Marketing - Atom" href="https://www.blogger.com/feeds/7744898142268990660/posts/default" />
 <!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/864213505-ieretrofit.js"></script>
 <![endif]-->
