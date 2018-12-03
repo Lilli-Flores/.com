@@ -2,7 +2,7 @@
      < Ola! >
 <html class='v2' dir='ltr' lang='pt-BR'>
 <head>
-<link href='https://www.blogger.com/static/v1/widgets/2727757643-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<link href='#' rel='stylesheet' type='text/css'/>
 <meta content='width=1100' name='viewport'/>
 <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
 <meta content='blogger' name='generator'/>
