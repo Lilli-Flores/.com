@@ -7,22 +7,18 @@
 <meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
 <meta content='blogger' name='generator'/>
 <link href='#' rel='icon' type='image/x-icon'/>
-<link href='#/>
+
 <link rel="alternate" type="application/atom+xml" title="Decorações - Atom" href="# " />
 <link rel="alternate" type="application/rss+xml" title="Decorações- RSS" href="#" />
 <link rel="service.post" type="application/atom+xml" title=" Decorações- Atom" href="#" />
-<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/864213505-ieretrofit.js"></script>
-<![endif]-->
+
 
 <!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
 <title>  Decorações   </title>
 <style id='page-skin-1' type='text/css'><!--
 /*
 -----------------------------------------------
-Blogger Template Style
-Name:     Watermark
-Designer: Blogger
-URL:      
+
 ----------------------------------------------- */
 
 /* Use this with templates/1ktemplate-*.html */
@@ -413,7 +409,7 @@ body#layout div.add_widget a {
 margin-left: 32px;
 }
 --></style>
-<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7744898142268990660&amp;zx=2f745f6b-4c5f-48fb-889b-b9b1ecd25075' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7744898142268990660&amp;zx=2f745f6b-4c5f-48fb-889b-b9b1ecd25075' rel='stylesheet'/></noscript>
+<link href='#' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=7744898142268990660&amp;zx=2f745f6b-4c5f-48fb-889b-b9b1ecd25075' rel='stylesheet'/></noscript>
 
 </head>
 <body class='loading variant-bubblegum'>
