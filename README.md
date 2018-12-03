@@ -15,8 +15,7 @@
 
 <!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
 <title>  Decorações   </title>
-<style id='page-skin-1' type='text/css'><!--
-/*
+
 -----------------------------------------------
 
 ----------------------------------------------- */
@@ -27,7 +26,7 @@
 body {
 font: normal normal 15px Georgia, Utopia, 'Palatino Linotype', Palatino, serif;
 color: #333333;
-background: #ee1133 url(https://resources.blogblog.com/blogblog/data/1kt/watermark/body_background_bubblegum.png) repeat scroll top center;
+background: #ee1133 url(#) repeat scroll top center;
 }
 html body .content-outer {
 min-width: 0;
@@ -446,7 +445,7 @@ head.appendChild(script);
 }})();
 </script>
 </div></div>
-<div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
+<div itemscope='itemscope' itemtype='http://schema.org.com' style='display: none;'>
 <meta content=' Decorações ' itemprop='name'/>
 
 </div>
@@ -594,22 +593,14 @@ Marketing
 <div class='cap-right'></div>
 </div>
 </div>
-<!-- corrects IE6 width calculation -->
-<div class='columns-inner'>
-<div class='column-center-outer'>
-<div class='column-center-inner'>
-<div class='main section' id='main' name='Principal'><div class='widget Blog' data-version='1' id='Blog1'>
-<div class='blog-posts hfeed'>
 
-          <div class="date-outer">
         
 
 
           <div class="date-posts">
         
 <div class='post-outer'>
-<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
-<meta content='#'/>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype=
 <meta content='2247210729983551144' itemprop='postId'/>
 <a name='2247210729983551144'></a>
 <h3 class='post-title entry-title' itemprop='name'>
@@ -620,7 +611,7 @@ Marketing
 </div>
 <div class='post-body entry-content' id='post-body-2247210729983551144' itemprop='articleBody'>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="color: purple;"><img border="0" data-original-height="1280" data-original-width="960" height="200" src="https://1.bp.blogspot.com/-mfaU6SSiMnE/W61mbbv5TPI/AAAAAAAAFKM/36Q02J1M8qEcf_4GI4vxUsenqC7Ig_HZQCEwYBhgL/s200/IMG-20180927-WA0002.jpg" width="150" /></span></a></div>
+<a href="jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><span style="color: purple;"><img border="0" data-original-height="1280" data-original-width="960" height="200" src="/-mfaU6SSiMnE/W61mbbv5TPI/AAAAAAAAFKM/36Q02J1M8qEcf_4GI4vxUsenqC7Ig_HZQCEwYBhgL/s200/IMG-20180927-WA0002.jpg" width="150" /></span></a></div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
 <a href="https://2.bp.blogspot.com/-xdNDYK4LJHg/W61mbdpzSJI/AAAAAAAAFKQ/iLKv7s-b_4sDI_VlX7Ehd1hzI9hqDmW4QCEwYBhgL/s1600/IMG-20180927-WA0004.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1280" data-original-width="960" height="200" src="https://2.bp.blogspot.com/-xdNDYK4LJHg/W61mbdpzSJI/AAAAAAAAFKQ/iLKv7s-b_4sDI_VlX7Ehd1hzI9hqDmW4QCEwYBhgL/s200/IMG-20180927-WA0004.jpg" width="150" /></a></div>
@@ -1148,8 +1139,8 @@ criativasitesjoinvillebusiness.site. Tema Marca d'água. Tecnologia do <a href='
 
 <script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/3234676992-widgets.js"></script>
 <script type='text/javascript'>
-window['__wavt'] = 'AOuZoY6f28IS0va2A2ZC2vnMzC25c1xYQg:1543846180419';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7744898142268990660','//markentigdig.blogspot.com/','7744898142268990660');
-_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7744898142268990660', 'title': 'Marketing', 'url': 'https://markentigdig.blogspot.com/', 'canonicalUrl': 'https://markentigdig.blogspot.com/', 'homepageUrl': 'https://markentigdig.blogspot.com/', 'searchUrl': 'https://markentigdig.blogspot.com/search', 'canonicalHomepageUrl': 'https://markentigdig.blogspot.com/', 'blogspotFaviconUrl': 'https://markentigdig.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'pt-BR', 'localeUnderscoreDelimited': 'pt_br', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Marketing - Atom\x22 href\x3d\x22https://markentigdig.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Marketing - RSS\x22 href\x3d\x22https://markentigdig.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Marketing - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7744898142268990660/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-3414823041869285', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': true, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/864213505-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/3da03921eba2f717', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'sharing': {'platforms': [{'name': 'Gerar link', 'key': 'link', 'shareMessage': 'Gerar link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Compartilhar no Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Compartilhar no Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Compartilhar no Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Compartilhar no Google+', 'target': 'googleplus'}, {'name': 'E-mail', 'key': 'email', 'shareMessage': 'E-mail', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27pt_BR\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': true, 'jumpLinkMessage': 'http://acesse.vc/v2/3031e893808', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Marketing', 'metaDescription': 'Brand,marketing,publicidade,trabalho digital,renda,MasterTrader,sites confiáveis,compras pela internet,,Webdesign,rentabilizar,monetizar,'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Editar', 'linkCopiedToClipboard': 'Link copiado para a área de transferência.', 'ok': 'Ok', 'postLink': 'Link da postagem'}}, {'name': 'template', 'data': {'name': 'Watermark', 'localizedName': 'Marca d\x27água', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'bubblegum', 'variantId': 'bubblegum'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Marketing', 'description': 'Brand,marketing,publicidade,trabalho digital,renda,MasterTrader,sites confiáveis,compras pela internet,,Webdesign,rentabilizar,monetizar,', 'url': '', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+window['__wavt'] = 'AOuZoY6f28IS0va2A2ZC2vnMzC25c1xYQg:1543846180419';_WidgetManager._Init('/');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7744898142268990660', 'title': 'Marketing', 'url': ', 'canonicalUrl': '', 'homepageUrl': '', 'searchUrl': '', 'canonicalHomepageUrl': '', 'blogspotFaviconUrl': 'https://markentigdig.blogspot.com/favicon.ico', 'bloggerUrl': '', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'pt-BR', 'localeUnderscoreDelimited': 'pt_br', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Marketing - Atom\x22 href\x3d\x22https://markentigdig.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Marketing - RSS\x22 href\x3d\x22https://markentigdig.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Marketing - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7744898142268990660/posts/default\x22 /\x3e\n', 'meTag': '', 'adsenseClientId': 'ca-pub-3414823041869285', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': true, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/864213505-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/3da03921eba2f717', 'plusOneApiSrc': '', 'sharing': {'platforms': [{'name': 'Gerar link', 'key': 'link', 'shareMessage': 'Gerar link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Compartilhar no Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Compartilhar no Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Compartilhar no Pinterest', 'target': 'pinterest'}, {'name': 'Google+', 'key': 'googlePlus', 'shareMessage': 'Compartilhar no Google+', 'target': 'googleplus'}, {'name': 'E-mail', 'key': 'email', 'shareMessage': 'E-mail', 'target': 'email'}], 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27pt_BR\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': true, 'jumpLinkMessage': '', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Marketing', 'metaDescription': 'Brand,marketing,publicidade,trabalho digital,renda,MasterTrader,sites confiáveis,compras pela internet,,Webdesign,rentabilizar,monetizar,'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Editar', 'linkCopiedToClipboard': 'Link copiado para a área de transferência.', 'ok': 'Ok', 'postLink': 'Link da postagem'}}, {'name': 'template', 'data': {'name': 'Watermark', 'localizedName': 'Marca d\x27água', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': false, 'variant': 'bubblegum', 'variantId': 'bubblegum'}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Marketing', 'description': 'Brand,marketing,publicidade,trabalho digital,renda,MasterTrader,sites confiáveis,compras pela internet,,Webdesign,rentabilizar,monetizar,', 'url': '', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
 _WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', document.getElementById('Navbar1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
 _WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'viewType': 'FILTERED_POSTMOD', 'useNgc': true, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/1046480262-lbx__pt_br.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/368954415-lightbox_bundle.css'}, 'displayModeFull'));
