@@ -428,7 +428,7 @@ margin-left: 32px;
       gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
         if (gapi.iframes && gapi.iframes.getContext) {
           gapi.iframes.getContext().openChild({
-              url: 'targetBlogID\x3d7744898142268990660\x26blogName\x3dMarketing\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dLIGHT\x26layoutType\x3dLAYOUTS\x26searchRoot\x3dhttps://markentigdig.blogspot.com/search\x26blogLocale\x3dpt_BR\x26v\x3d2\x26homepageUrl\x3dhttps://markentigdig.blogspot.com/\x26vt\x3d6019705699985838630',
+ 
               where: document.getElementById("navbar-iframe-container"),
               id: "navbar-iframe"
           });
@@ -505,7 +505,7 @@ head.appendChild(script);
 <div id='header-inner'>
 <div class='titlewrapper'>
 <h1 class='title'>
-Marketing
+Decorar
 </h1>
 </div>
 <div class='descriptionwrapper'>
@@ -622,24 +622,24 @@ Marketing
 <a href="#/-Vzv27LYfCqQ/W61mxNmjTrI/AAAAAAAAFKg/HeRix80EzbUDyPUCDpoGWtYPMYDcy37vwCLcBGAs/s1600/IMG-20180927-WA0006.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1280" data-original-width="960" height="200" src="https://2.bp.blogspot.com/-Vzv27LYfCqQ/W61mxNmjTrI/AAAAAAAAFKg/HeRix80EzbUDyPUCDpoGWtYPMYDcy37vwCLcBGAs/s200/IMG-20180927-WA0006.jpg" width="150" /></a></div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://4.bp.blogspot.com/-e2i9L_rvNJk/W1ow6YLyMTI/AAAAAAAAEmY/l6WVJlK__rMfq-hXdO_2E2HLT0_stZLMgCLcBGAs/s1600/20180612_222335.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="112" src="https://4.bp.blogspot.com/-e2i9L_rvNJk/W1ow6YLyMTI/AAAAAAAAEmY/l6WVJlK__rMfq-hXdO_2E2HLT0_stZLMgCLcBGAs/s200/20180612_222335.jpg" width="200" /></a><a href="https://4.bp.blogspot.com/-eLtQN1sQLeQ/W1ow6rYZ0uI/AAAAAAAAEmc/s5RYxC85Wyg9iAZH8FSpEceWS4wAqbWgQCLcBGAs/s1600/20180614_122541.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="200" src="https://4.bp.blogspot.com/-eLtQN1sQLeQ/W1ow6rYZ0uI/AAAAAAAAEmc/s5RYxC85Wyg9iAZH8FSpEceWS4wAqbWgQCLcBGAs/s200/20180614_122541.jpg" width="112" /></a><a href="https://4.bp.blogspot.com/-FLSIu-NM72w/W1ow6oWRTFI/AAAAAAAAEmg/dp4mT2aDVlMw0c_brSW0GnxEAEGrhVYlACLcBGAs/s1600/20180614_122554.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="200" src="https://4.bp.blogspot.com/-FLSIu-NM72w/W1ow6oWRTFI/AAAAAAAAEmg/dp4mT2aDVlMw0c_brSW0GnxEAEGrhVYlACLcBGAs/s200/20180614_122554.jpg" width="112" /></a></div>
+<a href="https://4.bp.blogspot.com/-e2i9L_rvNJk/W1ow6YLyMTI/AAAAAAAAEmY/l6WVJlK__rMfq-hXdO_2E2HLT0_stZLMgCLcBGAs/s1600/20180612_222335.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="112" src="https://4.bp./-e2i9L_rvNJk/W1ow6YLyMTI/AAAAAAAAEmY/l6WVJlK__rMfq-hXdO_2E2HLT0_stZLMgCLcBGAs/s200/20180612_222335.jpg" width="200" /></a><a href="-eLtQN1sQLeQ/W1ow6rYZ0uI/AAAAAAAAEmc/s5RYxC85Wyg9iAZH8FSpEceWS4wAqbWgQCLcBGAs/s1600/20180614_122541.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="200" src="/-eLtQN1sQLeQ/W1ow6rYZ0uI/AAAAAAAAEmc/s5RYxC85Wyg9iAZH8FSpEceWS4wAqbWgQCLcBGAs/s200/20180614_122541.jpg" width="112" /></a><a href="https://4.bp.blogspot.com/-FLSIu-NM72w/W1ow6oWRTFI/AAAAAAAAEmg/dp4mT2aDVlMw0c_brSW0GnxEAEGrhVYlACLcBGAs/s1600/20180614_122554.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="200" src="https://4.bp.blogspot.com/-FLSIu-NM72w/W1ow6oWRTFI/AAAAAAAAEmg/dp4mT2aDVlMw0c_brSW0GnxEAEGrhVYlACLcBGAs/s200/20180614_122554.jpg" width="112" /></a></div>
 <br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://2.bp.blogspot.com/-M-Pa8nq0b7s/W1ow7AOCP1I/AAAAAAAAEmk/HzxzzUdUy4soYk4qXLDGnY8dzMpAXkbXgCLcBGAs/s1600/20180614_122913.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="200" src="https://2.bp.blogspot.com/-M-Pa8nq0b7s/W1ow7AOCP1I/AAAAAAAAEmk/HzxzzUdUy4soYk4qXLDGnY8dzMpAXkbXgCLcBGAs/s200/20180614_122913.jpg" width="112" /></a></div>
+<a href="https://2.bp.blogspot.com/-M-Pa8nq0b7s/W1ow7AOCP1I/AAAAAAAAEmk/HzxzzUdUy4soYk4qXLDGnY8dzMpAXkbXgCLcBGAs/s1600/20180614_122913.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="200" src="https://2.bp./-M-Pa8nq0b7s/W1ow7AOCP1I/AAAAAAAAEmk/HzxzzUdUy4soYk4qXLDGnY8dzMpAXkbXgCLcBGAs/s200/20180614_122913.jpg" width="112" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://2.bp.blogspot.com/-lJ_MzZefez8/W1oupWVmjLI/AAAAAAAAEmI/MPLkjeZbzvUwAgrqKBX7-qveNnSi9XQhwCLcBGAs/s1600/20180712_192356.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="112" src="https://2.bp.blogspot.com/-lJ_MzZefez8/W1oupWVmjLI/AAAAAAAAEmI/MPLkjeZbzvUwAgrqKBX7-qveNnSi9XQhwCLcBGAs/s200/20180712_192356.jpg" width="200" /></a></div>
+<a href="https://2.bp.blogspot.com/-lJ_MzZefez8/W1oupWVmjLI/AAAAAAAAEmI/MPLkjeZbzvUwAgrqKBX7-qveNnSi9XQhwCLcBGAs/s1600/20180712_192356.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="112" src="https://-lJ_MzZefez8/W1oupWVmjLI/AAAAAAAAEmI/MPLkjeZbzvUwAgrqKBX7-qveNnSi9XQhwCLcBGAs/s200/20180712_192356.jpg" width="200" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-tf4alIJKZDg/W61luCp8rVI/AAAAAAAAFJw/t6cIsd1szmMlNETkXnCL9SW0GxrI51_uQCLcBGAs/s1600/20180926_181550.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="320" src="https://1.bp.blogspot.com/-tf4alIJKZDg/W61luCp8rVI/AAAAAAAAFJw/t6cIsd1szmMlNETkXnCL9SW0GxrI51_uQCLcBGAs/s320/20180926_181550.jpg" width="180" /></a></div>
+<a href="https://-tf4alIJKZDg/W61luCp8rVI/AAAAAAAAFJw/t6cIsd1szmMlNETkXnCL9SW0GxrI51_uQCLcBGAs/s1600/20180926_181550.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="320" src="/-tf4alIJKZDg/W61luCp8rVI/AAAAAAAAFJw/t6cIsd1szmMlNETkXnCL9SW0GxrI51_uQCLcBGAs/s320/20180926_181550.jpg" width="180" /></a></div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://1.bp.blogspot.com/-jLIT-ucuxTA/W61luOT6KpI/AAAAAAAAFJ0/a_NYBjr_Wy0rDgf1dAOKFcJUiOv3sy7VQCLcBGAs/s1600/20180926_181626.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="320" src="https://1.bp.blogspot.com/-jLIT-ucuxTA/W61luOT6KpI/AAAAAAAAFJ0/a_NYBjr_Wy0rDgf1dAOKFcJUiOv3sy7VQCLcBGAs/s320/20180926_181626.jpg" width="180" /></a></div>
+<a href="https:///-jLIT-ucuxTA/W61luOT6KpI/AAAAAAAAFJ0/a_NYBjr_Wy0rDgf1dAOKFcJUiOv3sy7VQCLcBGAs/s1600/20180926_181626.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="320" src="https://1.bp.blogspot.com/-jLIT-ucuxTA/W61luOT6KpI/AAAAAAAAFJ0/a_NYBjr_Wy0rDgf1dAOKFcJUiOv3sy7VQCLcBGAs/s320/20180926_181626.jpg" width="180" /></a></div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://2.bp.blogspot.com/-HOsYPKZUX3M/W61luA7tTCI/AAAAAAAAFJ4/lPC6t8lrvsUDocLw39w2mD0IjGjWM_rcQCLcBGAs/s1600/20180926_181716.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="320" src="https://2.bp.blogspot.com/-HOsYPKZUX3M/W61luA7tTCI/AAAAAAAAFJ4/lPC6t8lrvsUDocLw39w2mD0IjGjWM_rcQCLcBGAs/s320/20180926_181716.jpg" width="180" /></a></div>
+<a href="/-HOsYPKZUX3M/W61luA7tTCI/AAAAAAAAFJ4/lPC6t8lrvsUDocLw39w2mD0IjGjWM_rcQCLcBGAs/s1600/20180926_181716.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1600" data-original-width="900" height="320" src="https://2.bp.blogspot.com/-HOsYPKZUX3M/W61luA7tTCI/AAAAAAAAFJ4/lPC6t8lrvsUDocLw39w2mD0IjGjWM_rcQCLcBGAs/s320/20180926_181716.jpg" width="180" /></a></div>
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://3.bp.blogspot.com/-6iGxIPu2pR0/W61lwAuoR9I/AAAAAAAAFJ8/c8ufT9NT1AkHknk5enraNZKz-nuAxxDOwCLcBGAs/s1600/20180926_181836.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="112" src="https://3.bp.blogspot.com/-6iGxIPu2pR0/W61lwAuoR9I/AAAAAAAAFJ8/c8ufT9NT1AkHknk5enraNZKz-nuAxxDOwCLcBGAs/s200/20180926_181836.jpg" width="200" /></a>&nbsp;<a href="https://lilli-flores.github.io/VitrineBrasil.com.br/" rel="nofollow" target="_blank">https://lilli-flores.VitrineBrasil</a></div>
+<a href="/-6iGxIPu2pR0/W61lwAuoR9I/AAAAAAAAFJ8/c8ufT9NT1AkHknk5enraNZKz-nuAxxDOwCLcBGAs/s1600/20180926_181836.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="900" data-original-width="1600" height="112" src="https://3./-6iGxIPu2pR0/W61lwAuoR9I/AAAAAAAAFJ8/c8ufT9NT1AkHknk5enraNZKz-nuAxxDOwCLcBGAs/s200/20180926_181836.jpg" width="200" /></a>&nbsp;<a href="https://lilli-flores.github.io/VitrineBrasil.com.br/" rel="nofollow" target="_blank">#</a></div>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <div style='clear: both;'></div>
@@ -659,16 +659,16 @@ Blog-Desenvolvimento</span>&#160;</td>
 </tr></table>
 </span>
 <span class='post-comment-link'>
-<span class='cmt_count_iframe_holder' data-count='0' data-onclick='' data-post-url='https://markentigdig.blogspot.com/2017/11/construtor-de-cites.html' data-url='http://markentigdig.blogspot.com/2017/11/construtor-de-cites.html'>
+<span class='cmt_count_iframe_holder' data-count='0' data-onclick='' data-post-url='/2017/11/construtor-de-cites.html' data-url='/2017/11/construtor-de-cites.html'>
 </span>
 </span>
 <span class='post-backlinks post-comment-link'>
-<a class='comment-link' href='https://markentigdig.blogspot.com/2017/11/construtor-de-cites.html#links'>Links para esta postagem</a>
+<a class='comment-link' href='/11/construtor-de-cites.html#links'>Links para esta postagem</a>
 </span>
 <span class='post-icons'>
 <span class='item-action'>
-<a href='https://www.blogger.com/email-post.g?blogID=7744898142268990660&postID=2247210729983551144' title='Enviar esta postagem'>
-<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+<a href=''>
+<img alt='' class='icon-action' height='13' src='' width='18'/>
 </a>
 </span>
 <span class='item-control blog-admin pid-16833602'>
@@ -678,7 +678,7 @@ Blog-Desenvolvimento</span>&#160;</td>
 </span>
 </span>
 <div class='post-share-buttons goog-inline-block'>
-<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=2247210729983551144&target=email' target='_blank' title='Enviar por e-mail'><span class='share-button-link-text'>Enviar por e-mail</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=2247210729983551144&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=2247210729983551144&target=twitter' target='_blank' title='Compartilhar no Twitter'><span class='share-button-link-text'>Compartilhar no Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=2247210729983551144&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartilhar no Facebook'><span class='share-button-link-text'>Compartilhar no Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=2247210729983551144&target=pinterest' target='_blank' title='Compartilhar com o Pinterest'><span class='share-button-link-text'>Compartilhar com o Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://markentigdig.blogspot.com/2017/11/construtor-de-cites.html' size='medium' width='300' annotation='inline'/></div>
+<a class='goog-inline-block share-button sb-email' href='?blogID=7744898142268990660&postID=2247210729983551144&target=email' target='_blank' title='Enviar por e-mail'><span class='share-button-link-text'>Enviar por e-mail</span></a><a class='goog-inline-block share-button sb-blog' href='hhare-post.g?blogID=7744898142268990660&postID=2247210729983551144&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=2247210729983551144&target=twitter' target='_blank' title='Compartilhar no Twitter'><span class='share-button-link-text'>Compartilhar no Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=2247210729983551144&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartilhar no Facebook'><span class='share-button-link-text'>Compartilhar no Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=2247210729983551144&target=pinterest' target='_blank' title='Compartilhar com o Pinterest'><span class='share-button-link-text'>Compartilhar com o Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://markentigdig.blogspot.com/2017/11/construtor-de-cites.html' size='medium' width='300' annotation='inline'/></div>
 </div>
 </div>
 
@@ -738,17 +738,17 @@ Blog-Desenvolvimento</span>&#160;</td>
 <span class='post-icons'>
 <span class='item-action'>
 <a href='https://www.blogger.com/email-post.g?blogID=7744898142268990660&postID=3592276063168366662' title='Enviar esta postagem'>
-<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+<img alt='' class='icon-action' height='13' src='h'/>
 </a>
 </span>
 <span class='item-control blog-admin pid-16833602'>
-<a href='https://www.blogger.com/post-edit.g?blogID=7744898142268990660&postID=3592276063168366662&from=pencil' title='Editar postagem'>
+<a href='7744898142268990660&postID=3592276063168366662&from=pencil' title='Editar postagem'>
 <img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
 </a>
 </span>
 </span>
 <div class='post-share-buttons goog-inline-block'>
-<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=3592276063168366662&target=email' target='_blank' title='Enviar por e-mail'><span class='share-button-link-text'>Enviar por e-mail</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=3592276063168366662&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=3592276063168366662&target=twitter' target='_blank' title='Compartilhar no Twitter'><span class='share-button-link-text'>Compartilhar no Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=3592276063168366662&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartilhar no Facebook'><span class='share-button-link-text'>Compartilhar no Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=3592276063168366662&target=pinterest' target='_blank' title='Compartilhar com o Pinterest'><span class='share-button-link-text'>Compartilhar com o Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='http://markentigdig.blogspot.com/2017/10/ganhe-premios-como-creditos-de-celular.html' size='medium' width='300' annotation='inline'/></div>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=3592276063168366662&target=email' target='_blank' title='Enviar por e-mail'><span class='share-button-link-text'>Enviar por e-mail</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=3592276063168366662&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='hare-post.g?blogID=7744898142268990660&postID=3592276063168366662&target=twitter' target='_blank' title='Compartilhar no Twitter'><span class='share-button-link-text'>Compartilhar no Twitter</span></a><a class='goog-inline-block share-button sb-facebook' href='gID=7744898142268990660&postID=3592276063168366662&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Compartilhar no Facebook'><span class='share-button-link-text'>Compartilhar no Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=7744898142268990660&postID=3592276063168366662&target=pinterest' target='_blank' title='Compartilhar com o Pinterest'><span class='share-button-link-text'>Compartilhar com o Pinterest</span></a><div class='goog-inline-block google-plus-share-container'><g:plusone source='blogger:blog:plusone' href='tos-de-celular.html' size='medium' width='300' annotation='inline'/></div>
 </div>
 </div>
 <div class='post-footer-line post-footer-line-2'>
